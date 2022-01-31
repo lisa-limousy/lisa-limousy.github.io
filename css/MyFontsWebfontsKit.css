@@ -1,0 +1,19 @@
+@import url("http://hello.myfonts.net/count/250a40");
+
+  
+@font-face {
+	font-family: 'FuturaBT-MediumCondensed';
+	src: url('webfonts/250A40_0_0.eot');
+	src: url('webfonts/250A40_0_0.eot#iefix') format('embedded-opentype'),
+		url('webfonts/250A40_0_0.woff') format('woff'),
+		url('webfonts/250A40_0_0.ttf') format('truetype')
+}
+ 
+  
+@font-face {
+	font-family: 'FuturaBT-ExtraBlackCondensed';
+	src: url('webfonts/250A40_1_0.eot');
+	src: url('webfonts/250A40_1_0.eot#iefix') format('embedded-opentype'),
+		url('webfonts/250A40_1_0.woff') format('woff'),
+		url('webfonts/250A40_1_0.ttf') format('truetype')
+}
