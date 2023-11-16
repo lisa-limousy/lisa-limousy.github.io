@@ -23,6 +23,7 @@ ver 1.1
 /* ===================================
     1. Global CSS
 ====================================== */
+
 body
 {
     font-family: 'Roboto', serif;
@@ -42,7 +43,7 @@ body a
 
 body a:hover
 {
-    color: #d7b065;
+    color: #e04e53;
 }
 
 ::selection 
@@ -728,7 +729,7 @@ body a:hover
 {    
     position: relative;
     display: inline-block;
-    color: #d7b065;
+    color: #e04e53;
 }
 
 .page h1.entry-title a:after
@@ -737,11 +738,15 @@ body a:hover
     display: block;
     width: 0;
     height: 3px;
-    background-color: #d7b065;
+    background-color: #e04e53;
     transition: width .3s;
     position: absolute;
     left: 0;
     bottom: 0;
+}
+
+a.portfolio-text:hover {
+    color: #d7b065;
 }
 
 .page h1.entry-title a:hover:after
