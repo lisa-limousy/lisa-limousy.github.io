@@ -729,7 +729,7 @@ body a:hover
 {    
     position: relative;
     display: inline-block;
-    color: #e04e53;
+    color: #4042ff;
 }
 
 .page h1.entry-title a:after
@@ -738,7 +738,7 @@ body a:hover
     display: block;
     width: 0;
     height: 3px;
-    background-color: #e04e53;
+    background-color: #4042ff;
     transition: width .3s;
     position: absolute;
     left: 0;
