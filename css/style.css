@@ -48,7 +48,7 @@ body a:hover
 
 ::selection 
 {
-    background-color: #fae3b5;
+    background-color: #e04e53;
 }
 
 .body-wrapper
@@ -729,7 +729,7 @@ body a:hover
 {    
     position: relative;
     display: inline-block;
-    color: #4042ff;
+    color: #e04e53;
 }
 
 .page h1.entry-title a:after
@@ -738,7 +738,7 @@ body a:hover
     display: block;
     width: 0;
     height: 3px;
-    background-color: #4042ff;
+    background-color: #e04e53;
     transition: width .3s;
     position: absolute;
     left: 0;
